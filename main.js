@@ -3,12 +3,7 @@
 $(document).ready(function(){
 			$('.header').height($(window).height());
 		})
-		
-
-
-		
-// This is the JS script written by Luiz Araujo for the calendar
-// as hosted at his page on https://codepen.io/luizdtna/pen/ydbYQq
+	
 
 
 'use strict';
@@ -159,7 +154,3 @@ ReactDOM.render(
   document.getElementById('calendar')
 )
 
-
-
-
-//this is the end of the code written by Luiz Araujo.
