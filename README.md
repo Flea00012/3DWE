@@ -11,6 +11,6 @@ with enthusiasts, hobbyists and scientists alike.
 
 The website is hosted at Heroku on the free tier setup
 
-# Subsciptions
+# Subscriptions
 
 The memberships and subscriptions management is done through MailChimp.com
